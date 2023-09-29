@@ -93,7 +93,7 @@ class _CustomerListPageState extends State<CustomerListPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Customer List'),
+        title: const Text('Week 6 Git'),
       ),
       body: Center(
         child: isLoading
